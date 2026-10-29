@@ -43,8 +43,9 @@ Purpose of the Lab
 - To build practical skills in cybersecurity and network security.
   
 ## Network configuration
+- Operating System: Kali Linux
 - Network type: NAT Network
-- Subnet: 10.0.0.0/24
+- Network Subnet: 10.0.0.0/24
 - Kali Linux IP: 10.0.0.2/24
 - Internet access: Configured and tested
 
