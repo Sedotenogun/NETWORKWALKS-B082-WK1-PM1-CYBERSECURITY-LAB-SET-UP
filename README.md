@@ -1,8 +1,3 @@
-<img width="816" height="768" alt="Screenshot Kali-Linux" src="https://github.com/user-attachments/assets/299fe9cb-ca36-4364-a913-0ab965b937b9" />
-<img width="1366" height="768" alt="Screenshot network settings 2" src="https://github.com/user-attachments/assets/39c4fe2a-11a9-4e9f-b5d2-1195345cff6f" />
-<img width="1366" height="768" alt="Screenshot network setings 1" src="https://github.com/user-attachments/assets/00861f2c-256c-4844-81a5-4701441a73ae" />
-<img width="816" height="721" alt="Screenshot Kali Network Settings" src="https://github.com/user-attachments/assets/11d17e4f-83b3-4adb-84c3-5725513a03bf" />
-
 
 # NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SET-UP
 
@@ -73,6 +68,23 @@ Real-World Troubleshooting: Learned how to read terminal error messages (like NO
 Linux User Permissions: Understood how Linux manages group permissions by adding my user to the vboxsf group to access restricted shared folders.
 
 Documenting the Process: Realized the value of writing down errors and solutions as they happen so I can easily reference them or share them with others.
+
+## Lab Screenshots
+
+### VirtualBox Network Configuration
+
+<img width="1366" height="768" alt="Screenshot network setings 1" src="https://github.com/user-attachments/assets/00861f2c-256c-4844-81a5-4701441a73ae" />
+
+<img width="1366" height="768" alt="Screenshot network settings 2" src="https://github.com/user-attachments/assets/39c4fe2a-11a9-4e9f-b5d2-1195345cff6f" />
+
+### Kali Linux IP Address
+
+<img width="816" height="721" alt="Screenshot Kali Network Settings" src="https://github.com/user-attachments/assets/11d17e4f-83b3-4adb-84c3-5725513a03bf" />
+
+### Internet Connectivity Test
+
+<img width="818" height="722" alt="Screenshot Internet Connectivity test" src="https://github.com/user-attachments/assets/4286b899-ab6c-4a63-a2bc-cf6013d39df1" />
+
 
 
 
